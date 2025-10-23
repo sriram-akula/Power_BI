@@ -1,0 +1,314 @@
+State Name,Dist Name,SOIL TYPE PERCENT (Percent)
+Chhattisgarh,Durg,LOAMY ALFISOLS - 60% ; USTALF/USTOLLS - 40%
+Chhattisgarh,Bastar,LOAMY ALFISOL - 100%
+Chhattisgarh,Raipur,USTALF/USTOLLS - 50% ; LOAMY ALFISOLS - 25% ; VERTISOLS - 15%
+Chhattisgarh,Bilaspur,USTALF/USTOLLS - 100%
+Chhattisgarh,Raigarh,USTALF/USTOLLS - 100%
+Chhattisgarh,Surguja,USTALF/USTOLLS - 100%
+Madhya Pradesh,Jabalpur,VERTIC SOILS - 85% ; VERTISOLS - 15%
+Madhya Pradesh,Balaghat,VERTIC SOILS - 85% ; VERTISOLS - 15%
+Madhya Pradesh,Chhindwara,VERTIC SOILS - 85% ; VERTISOLS - 15%
+Madhya Pradesh,Narsinghpur,VERTISOLS - 80% ; VERTIC SOILS - 20%
+Madhya Pradesh,Seoni / Shivani,VERTIC SOILS - 85% ; VERTISOLS - 15%
+Madhya Pradesh,Mandla,VERTIC SOILS - 85% ; VERTISOLS - 15%
+Madhya Pradesh,Sagar,VERTIC SOILS - 50% ; VERTISOLS - 50%
+Madhya Pradesh,Damoh,VERTIC SOILS - 60% ; VERTISOLS - 40%
+Madhya Pradesh,Tikamgarh,VERTIC SOILS - 100%
+Madhya Pradesh,Chhatarpur,VERTIC SOILS - 80% ; INCEPTISOLS - 20%
+Madhya Pradesh,Panna,VERTIC SOILS - 100%
+Madhya Pradesh,Rewa,VERTIC SOILS - 60% ; INCEPTISOLS - 25% ; USTALF/USTOLLS - 15%
+Madhya Pradesh,Sidhi,USTALF/USTOLLS - 75% ; VERTIC SOILS - 25%
+Madhya Pradesh,Satna,VERTIC SOILS - 100%
+Madhya Pradesh,Shahdol,VERTIC SOILS - 60% ; USTALF/USTOLLS - 40%
+Madhya Pradesh,Gwalior,VERTIC SOILS - 100%
+Madhya Pradesh,Shivpuri,VERTIC SOILS - 100%
+Madhya Pradesh,Guna,VERTIC SOILS - 100%
+Madhya Pradesh,Datia,VERTIC SOILS - 100%
+Madhya Pradesh,Morena,VERTIC SOILS - 100%
+Madhya Pradesh,Bhind,VERTIC SOILS - 100%
+Madhya Pradesh,Indore,VERTIC SOILS - 100%
+Madhya Pradesh,Ratlam,VERTIC SOILS - 100%
+Madhya Pradesh,Ujjain,VERTIC SOILS - 100%
+Madhya Pradesh,Mandsaur,VERTIC SOILS - 100%
+Madhya Pradesh,Dewas,VERTIC SOILS - 100%
+Madhya Pradesh,Dhar,VERTIC SOILS - 100%
+Madhya Pradesh,Jhabua,VERTIC SOILS - 100%
+Madhya Pradesh,Khargone / West Nimar,VERTIC SOILS - 100%
+Madhya Pradesh,Khandwa / East Nimar,VERTIC SOILS - 100%
+Madhya Pradesh,Sehore,VERTIC SOILS - 60% ; VERTISOLS - 40%
+Madhya Pradesh,Raisen,VERTIC SOILS - 80% ; VERTISOLS - 20%
+Madhya Pradesh,Vidisha,VERTIC SOILS - 60% ; VERTISOLS - 40%
+Madhya Pradesh,Betul,VERTIC SOILS - 85% ; VERRTISOLS - 15%
+Madhya Pradesh,Rajgarh,VERTIC SOILS - 100%
+Madhya Pradesh,Shajapur,VERTIC SOILS - 90% ; VERTISOLS - 10%
+Madhya Pradesh,Hoshangabad,VERTIC SOILS - 100%
+Andhra Pradesh,Srikakulam,ORTHIDS - 100%
+Andhra Pradesh,Visakhapatnam,ORTHIDS - 50% ; SANDY ALFISOL - 50%
+Andhra Pradesh,East Godavari,ORTHIDS - 65% ; SANDY ALFISOL - 35%
+Andhra Pradesh,West Godavari,ORTHIDS - 50% ; SANDY ALFISOL - 50%
+Andhra Pradesh,Krishna,ORTHIDS - 50% ; LOAMY ALFISOLS - 50%
+Andhra Pradesh,Guntur,ORTHIDS - 40% ; VERTISOLS - 30% ; SANDY ALFISOL - 30%
+Andhra Pradesh,S.P.S. Nellore,ORTHIDS - 60% ; SANDY ALFISOL - 40%
+Andhra Pradesh,Kurnool,SANDY ALFISOL - 60% ; VERTIC SOILS - 40%
+Andhra Pradesh,Ananthapur,SANDY ALFISOL - 100%
+Andhra Pradesh,Kadapa YSR,SANDY ALFISOL - 100%
+Andhra Pradesh,Chittoor,SANDY ALFISOL - 80%; ORTHIDS - 20%
+Telangana,Hyderabad,SANDY ALFISOL - 100%
+Telangana,Nizamabad,VERTIC SOILS - 85% ; VERTISOLS - 15%
+Telangana,Medak,SANDY ALFISOL - 75% ; VERTIC SOILS - 25%
+Telangana,Mahabubnagar,VERTISOLS - 40% ; VERTIC SOILS - 20% ; SANDY ALFISOL - 40%
+Telangana,Nalgonda,SANDY ALFISOL - 100%
+Telangana,Warangal,SANDY ALFISOL - 40% ; VERTIC SOILS - 35% ; ORTHIDS - 25%
+Telangana,Khammam,VERTISOLS - 60% ; SANDY ALFISOLS - 40%
+Telangana,Karimnagar,VERTIC SOLS - 70% ; VERTISOLS - 30%
+Telangana,Adilabad,VERTIC SOILS - 50% ; SANDY ALFISOL - 50%
+Karnataka,Bangalore,SANDY ALFISOL - 100%
+Karnataka,Kolar,SANDY ALFISOL - 100%
+Karnataka,Tumkur,SANDY ALFISOL - 100%
+Karnataka,Mysore,SANDY ALFISOL - 100%
+Karnataka,Mandya,SANDY ALFISOL - 100%
+Karnataka,Hassan,SANDY ALFISOL - 100%
+Karnataka,Shimoge,SANDY ALFISOL - 100%
+Karnataka,Chickmagalur,SANDY ALFISOL - 85% ; UDUPTS/UDALFS - 15%
+Karnataka,Chitradurga,SANDY ALFISOL - 85% ; VERTISOLS - 15%
+Karnataka,Bellary,SANDY ALFISOL - 70% ; VERTIC SOILS - 30%
+Karnataka,Dharwad,VERTIC SOILS - 70% ; VERTISOLS - 30%
+Karnataka,Belgaum,VRTIC SOILS - 70% ; VERTISOLS - 30%
+Karnataka,Bijapur / Vijayapura,VERTISOLS - 50% ; VERTIC SOILS - 50%
+Karnataka,Bidar,VERTIC SOILS - 100%
+Karnataka,Raichur,VERTISOLS - 60% ; VERTIC SOILS - 40%
+Karnataka,Gulbarga / Kalaburagi,VERTIC SOILS - 55% ; VERTISOLS - 45%
+Karnataka,Dakshina Kannada,UDUPTS/UDALFS - 70% ; ORTHIDS - 30%
+Karnataka,Uttara Kannada,VERTIC SOILS - 50% ; UDUPTS/UDALFS - 30% ; ORTHIDS - 20%
+Karnataka,Kodagu / Coorg,SANDY ALFISOL - 85% ; UDUPTS/UDALFS - 15%
+Tamil Nadu,Chengalpattu MGR / Kanchipuram,ORTHIDS - 100%
+Tamil Nadu,South Arcot / Cuddalore,ORTHIDS - 85% ; SANDY ALFISOL - 15%
+Tamil Nadu,North Arcot / Vellore,SANDY ALFISOL - 85% ; ORTHIDS - 15%
+Tamil Nadu,Salem,SANDY ALFISOL - 100%
+Tamil Nadu,Coimbatore,SANDY ALFISOL - 100%
+Tamil Nadu,Tiruchirapalli / Trichy,ORTHIDS - 25% ; SANDY ALFISOL - 75%
+Tamil Nadu,Thanjavur,ORTHIDS - 100%
+Tamil Nadu,Madurai,SANDY ALFISOL - 100%
+Tamil Nadu,Ramananthapuram,ORTHIDS - 100%
+Tamil Nadu,Thirunelveli,SANDY ALFISOL - 100%
+Tamil Nadu,The Nilgiris,SANDY ALFISOL - 100%
+Tamil Nadu,Kanyakumari,ORTHIDS - 100%
+Maharashtra,Bombay,UDUPTS/UDALFS - 35% ; VERTISOLS - 35% ; VERTIC SOILS - 30%
+Maharashtra,Thane,VERTIC SOILS - 55% ; ORTHIDS - 45%
+Maharashtra,Raigad,VERTIC SOILS - 45% ; ORTHIDS - 35% ; UDUPTS/UDALFS - 20%
+Maharashtra,Ratnagiri,UDUPTS/UDALFS - 50% ; ORTHIDS - 50%
+Maharashtra,Nasik,VERTIC SOILS - 85% ; VERTISOLS - 15%
+Maharashtra,Dhule,VERTIC SOILS - 65% ; VERTISOLS - 35%
+Maharashtra,Jalgaon,VERTIC SOILS - 65% ; VERTISOLS - 35%
+Maharashtra,Ahmednagar,VERTIC SOILS - 60% ; VERTISOLS - 40%
+Maharashtra,Pune,VERTIC SOILS - 65% ; VERTISOLS - 35%
+Maharashtra,Satara,UDUPTS/UDALFS - 60% ; VERTISOLS - 40%
+Maharashtra,Sangli,VERTIC SOILS - 75% ; VERTISOLS - 25%
+Maharashtra,Solapur,VERTIC SOILS - 60% ; ORTHIDS - 40%
+Maharashtra,Kolhapur,VERTISOLS - 50% ; VERTIC SOILS - 50%
+Maharashtra,Aurangabad,VERTIC SOILS - 80% ; VERTISOLS - 20%
+Maharashtra,Parbhani,VERTIC SOILS - 75% ; VERTISOLS - 25%
+Maharashtra,Beed,VERTIC SOILS - 100%
+Maharashtra,Nanded,VERTIC SOILS - 60% ; VERTISOLS - 40%
+Maharashtra,Osmanabad,VERTIC SOILS - 100%
+Maharashtra,Buldhana,VERTIC SOILS - 75% ; VERTISOLS - 25%
+Maharashtra,Akola,VERTIC SOILS - 60% ; VERTISOLS -40%
+Maharashtra,Amarawati,VERTIC SOILS - 85% ; VERTISOLS - 15%
+Maharashtra,Yeotmal,VERTIC SOILS - 100%
+Maharashtra,Wardha,VERTIC SOILS - 100%
+Maharashtra,Nagpur,VERTIC SOILS - 100%
+Maharashtra,Bhandara,VERTIC SOILS - 100%
+Maharashtra,Chandrapur,VERTIC SOILS - 100%
+Gujarat,Ahmedabad,USTALF/USTOLLS - 100%
+Gujarat,Amreli,ORTHIDS - 100%
+Gujarat,Banaskantha,USTALF/USTOLLS - 100%
+Gujarat,Bharuch,VERTISOLS - 60% ; ORTHIDS - 25% ; VERTIC SOLS - 15%
+Gujarat,Vadodara / Baroda,VERTIC SOILS - 55% ; VERTISOLS - 45%
+Gujarat,Bhavnagar,ORTHIDS - 75% ; VERTIC SOILS - 25%
+Gujarat,Valsad,VERTIC SOILS - 60% ; ORTHIDS - 40%
+Gujarat,Dangs,VERTIC SOILS - 100%
+Gujarat,Jamnagar,ORTHIDS - 50% ; VERTIC SOILS - 50%
+Gujarat,Junagadh,ORTHIDS - 50% ; VERTIC SOILS - 50%
+Gujarat,Kheda,USTALF/USTOLLS - 60% ; VERTIC SOILS - 40%
+Gujarat,Kutch,ORTHIDS - 85% ; VERTI SOLS - 15%
+Gujarat,Mehsana,USTALF/USTOLLS - 100%
+Gujarat,Panchmahal,VERTIC SOILS - 100%
+Gujarat,Rajkot,VERTIC SOILS - 80% ; VERTISOLS - 20%
+Gujarat,Sabarkantha,VERTIC SOILS - 50% ; USTALF/USTOLLS - 50%
+Gujarat,Surat,VERTISOLS - 60% ; ORTHIDS - 20% ; VERTIC SOILS - 20%
+Gujarat,Surendranagar,USTALF/USTOLLS - 60% ; VERTIC SOILS - 40%
+Rajasthan,Ajmer,INCEPTISOLS - 60% ; PSSAMENTS - 40%
+Rajasthan,Alwar,INCEPTISOLS - 100%
+Rajasthan,Banswara,VERTIC SOILS - 100%
+Rajasthan,Barmer,PSSAMENTS - 100%
+Rajasthan,Bharatpur,INCEPTISOLS - 85% ; VERTIC OSILS - 15%
+Rajasthan,Bhilwara,VERTIC SOILS - 100%
+Rajasthan,Bikaner,PSSAMENTS - 100%
+Rajasthan,Bundi,VERTIC SOILS - 100%
+Rajasthan,Chittorgarh,VERTIC SOILS - 100%
+Rajasthan,Churu,PSSAMENTS - 100%
+Rajasthan,Dungarpur,VERTIC SOILS - 100%
+Rajasthan,Ganganagar,PSSAMENTS - 100%
+Rajasthan,Jaipur,INCEPTISOLS - 100%
+Rajasthan,Jaisalmer,PSSAMENTS - 100%
+Rajasthan,Jalore,PSSAMENTS - 100%
+Rajasthan,Jhalawar,VERTIC SOILS - 100%
+Rajasthan,Jhunjhunu,INCEPTISOLS - 50% ; PSSAMNETS - 50%
+Rajasthan,Jodhpur,PSSAMENTS - 100%
+Rajasthan,Kota,VERTIC SOILS - 100%
+Rajasthan,Nagaur,PSSAMNETS - 85% ; INCEPTISOLS - 15%
+Rajasthan,Pali,PSSAMENTS - 100%
+Rajasthan,Swami Madhopur,VERTIC SOILS - 85% ; INCEPTISOLS - 15%
+Rajasthan,Sikar,INCEPTISOLS - 50% ; PSSAMNETS - 50%
+Rajasthan,Sirohi,PSSAMNETS - 100%
+Rajasthan,Tonk,INCEPTISOLS - 100%
+Rajasthan,Udaipur,PSSAMENTS - 30% ; VERTIC SOILS - 70%
+Punjab,Gurdaspur,INCEPTISOLS - 100%
+Punjab,Amritsar,INCEPTISOLS - 100%
+Punjab,Kapurthala,INCEPTISOLS - 100%
+Punjab,Jalandhar,INCEPTISOLS - 100%
+Punjab,Hoshiarpur,INCEPTISOLS - 100%
+Punjab,Roopnagar / Ropar,INCEPTISOLS - 100%
+Punjab,Ludhiana,INCEPTISOLS - 100%
+Punjab,Ferozpur,INCEPTISOLS - 20% ; PSSAMENTS - 80%
+Punjab,Bhatinda,PSSAMENTS - 100%
+Punjab,Sangrur,INCEPTISOLS - 100%
+Punjab,Patiala,INCEPTISOLS - 100%
+Haryana,Hissar,PSSAMENTS - 100%
+Haryana,Gurgaon,INCEPTISOLS - 100%
+Haryana,Jind,INCEPTISOLS - 50% ; PSSAMENTS - 505
+Haryana,Mahendragarh / Narnaul,INCEPTISOLS - 100%
+Haryana,Ambala,INCEPTISOLS - 100%
+Haryana,Karnal,INCEPTISOLS - 100%
+Haryana,Rohtak,INCEPTISOLS - 100%
+Uttar Pradesh,Saharanpur,INCEPTISOLS - 100%
+Uttar Pradesh,Muzaffarnagar,INCEPTISOLS - 100%
+Uttar Pradesh,Meerut,UDOLLS/UDALFS - 100%
+Uttar Pradesh,Buland Shahar,INCEPTISOLS - 100%
+Uttar Pradesh,Aligarh,INCEPTISOLS - 100%
+Uttar Pradesh,Mathura,INCEPTISOLS - 100%
+Uttar Pradesh,Agra,INCEPTISOLS - 100%
+Uttar Pradesh,Mainpuri,INCEPTISOLS - 100%
+Uttar Pradesh,Etah,INCEPTISOLS - 100%
+Uttar Pradesh,Bareilly,INCEPTISOLS - 100%
+Uttar Pradesh,Budaun,INCEPTISOLS - 100%
+Uttar Pradesh,Moradabad,INCEPTISOLS - 100%
+Uttar Pradesh,Shahjahanpur,INCEPTISOLS - 100%
+Uttar Pradesh,Pilibhit,INCEPTISOLS - 100%
+Uttar Pradesh,Rampur,INCEPTISOLS - 100%
+Uttar Pradesh,Bijnor,INCEPTISOLS - 100%
+Uttar Pradesh,Farrukhabad,INCEPTISOLS - 100%
+Uttar Pradesh,Etawah,INCEPTISOLS - 100%
+Uttar Pradesh,Kanpur,INCEPTISOLS - 100%
+Uttar Pradesh,Fatehpur,INCEPTISOLS - 100%
+Uttar Pradesh,Allahabad,INCEPTISOLS - 100%
+Uttar Pradesh,Jhansi,INCEPTISOLS - 100%
+Uttar Pradesh,Jalaun,INCEPTISOLS - 100%
+Uttar Pradesh,Hamirpur,INCEPTISOLS - 100%
+Uttar Pradesh,Banda,INCEPTISOLS - 100%
+Uttar Pradesh,Varanasi,INCEPTISOLS - 80% ; UDUPTS/UDALFS - 20%
+Uttar Pradesh,Mirzpur,INNCEPTISOLS - 60% ; UDUPTS/UDALFS - 40%
+Uttar Pradesh,Jaunpur,INCEPTISOLS -100%
+Uttar Pradesh,Ghazipur,INCEPTISOLS - 100%
+Uttar Pradesh,Ballia,INCEPTISOLS - 100%
+Uttar Pradesh,Gorakhpur,INCEPTISOLS - 100%
+Uttar Pradesh,Deoria,INCEPTISOLS - 100%
+Uttar Pradesh,Basti,INCEPTISOLS - 100%
+Uttar Pradesh,Azamgarh,INCEPTISOLS - 100%
+Uttar Pradesh,Lucknow,INCEPTISOLS - 100%
+Uttar Pradesh,Unnao,INCEPTISOLS - 100%
+Uttar Pradesh,Rae-Bareily,INCEPTISOLS - 100%
+Uttar Pradesh,Sitapur,INCEPTISOLS - 100%
+Uttar Pradesh,Hardoi,INCEPTISOLS - 100%
+Uttar Pradesh,Kheri,INCEPTISOLS - 100%
+Uttar Pradesh,Faizabad,INCEPTISOLS - 100%
+Uttar Pradesh,Gonda,INCEPTISOLS - 100%
+Uttar Pradesh,Bahraich,INCEPTISOLS - 100%
+Uttar Pradesh,Sultanpur,INCEPTISOLS - 100%
+Uttar Pradesh,Pratapgarh,INCEPTISOLS - 100%
+Uttar Pradesh,Barabanki,INCEPTISOLS - 100%
+Uttarakhand,Nainital,INCEPTISOLS - 85% ; UDOLLS/UDALFS - 15%
+Uttarakhand,Almorah,UDOLLS/UDALFS - 85% ; INCEPTISOLS - 15%
+Uttarakhand,Pithorgarh,INCEPTISOLS - 1005
+Uttarakhand,Chamoli,UDOLLS/UDALFS - 100%
+Uttarakhand,Uttar Kashi,UDOLLS/UDALFS - 100%
+Uttarakhand,Tehri Garhwal,UDOLLS/UDALFS - 100%
+Uttarakhand,Garhwal,INCEPTISOLS - 55% ; UDOLLS/UDALFS - 45%
+Uttarakhand,Dehradun,UDOLLS/UDALFS - 60% ; INCEPTISOLS - 40%
+Assam,Cachar,FLUVENTS-OCHREPTS
+Assam,Darrang,USTALFS-OCHREPTS
+Assam,Dibrugarh,FLUVENTS-OCHREPTS
+Assam,Goalpara,USTALFS-OCHREPTS
+Assam,Kamrup,USTALFS-OCHREPTS
+Assam,Karbi Anglong,USTALFS-OCHREPTS
+Assam,Lakhimpur,FLUVENTS-OCHREPTS
+Assam,North Cachar Hil / Dima hasao,USTALFS-OCHREPTS
+Assam,Nagaon,USTALFS-OCHREPTS
+Assam,Sibsagar,FLUVENTS-OCHREPTS
+Himachal Pradesh,Bilashpur,UDALFS
+Himachal Pradesh,Chamba,UDALFS
+Himachal Pradesh,Kangra,UDALFS-OCHREPTS
+Himachal Pradesh,Kinnaur,NA
+Himachal Pradesh,Kullu,UDALFS
+Himachal Pradesh,Lahul & Spiti,NA
+Himachal Pradesh,Solan,UDALFS
+Himachal Pradesh,Mandi,UDALFS-OCHREPTS
+Himachal Pradesh,Shimla,UDALFS-OCHREPTS
+Himachal Pradesh,Sirmaur,UDALFS
+Kerala,Alappuzha,PSAMMENTS-OCHREPTS
+Kerala,Kannur,FLUVENTS-ORTHENTS
+Kerala,Eranakulam,PSAMMENTS-ORTHENTS
+Kerala,Kottayam,USTALFS-TROPEPTS
+Kerala,Kozhikode,FLUVENTS-ORTHENTS
+Kerala,Malappuram,FLUVENTS-ORTHENTS
+Kerala,Palakkad,ORTHENTS-TROPEPTS
+Kerala,Kollam,DYSTROPEPTS-ORTHENTS
+Kerala,Thrissur,PSAMMENTS-ORTHENTS
+Kerala,Thiruvananthapuram,DYSTROPEPTS-ORTHENTS
+Orissa,Balasore,USTALF/USTOLLS - 100%
+Orissa,Bolangir,LOAMY ALFISOLS - 55% ; ORTHIDS - 45%
+Orissa,Cuttack,LOAMY ALFISOLS - 60% ; ORTHIDS - 50%
+Orissa,Dhenkanal,LOAMY ALFISOLS - 60% ; USTALF/USTOLLS- 40%
+Orissa,Ganjam,ORTHIDS - 40% ; SANDY ALFISOL - 60%
+Orissa,Kalahandi,USTALF/USTOLLS - 70% ; LOAMY ALFISOLS - 30%
+Orissa,Keonjhar,USTALF/USTOLLS - 65% ; LOAMY ALFISOLS - 35%
+Orissa,Koraput,LOAMY ALFISOLS - 80% ; SANDY ALFISOL - 20%
+Orissa,Mayurbhanja,USTALF/USTOLLS - 65% ; LOAMY ALFISOLS - 35%
+Orissa,Phulbani ( Kandhamal ),LOAMY ALFISOL - 50% ; USTALF/USTOLLS - 50%
+Orissa,Puri,ORTHIDS - 50% ; LOAMY ALFISOLS - 50%
+Orissa,Sambalpur,USTALF/USTOLLS - 100%
+Orissa,Sundargarh,USTALF/USTOLLS - 100%
+West Bengal,24 Parganas,ORTHIDS - 100%
+West Bengal,Nadia,ORTHIDS - 100%
+West Bengal,Murshidabad,UDUPTS/UDALFS - 80% ; ORTHIDS - 20%
+West Bengal,Burdwan,UDUPTS/UDALFS - 75% ; ORTHIDS - 25%
+West Bengal,Birbhum,UDUPTS/UDALFS - 100%
+West Bengal,Bankura,USTALF/USTOLLS - 50% ; UDUPTS/UDALFS - 50%
+West Bengal,Hooghly,ORTHIDS - 85% ; UDUPTS/UDALFS - 15%
+West Bengal,Howrah,INCEPTISOLS - 100%
+West Bengal,Jalpaiguri,INCEPTISOLS - 100%
+West Bengal,Darjeeling,INCEPTISOLS - 100%
+West Bengal,Malda,INCEPTISOLS - 60% ; USTALF/USTOLLS - 40%
+West Bengal,Cooch Behar,INCEPTISOLS - 100%
+West Bengal,Purulia,USTALF/USTOLLS - 100%
+West Bengal,Midnapur,ORTHIDS - 100%
+West Bengal,Kolkata,ORTHIDS - 100%
+West Bengal,West Dinajpur,INCEPTISOLS - 60% ; UDUPTS/UDALFS - 40%
+Bihar,Champaran,INCEPTISOLS - 100%
+Bihar,Muzaffarpur,INCEPTISOLS - 100%
+Bihar,Darbhanga,INCEPTISOLS - 100%
+Bihar,Saharsa,INCEPTISOLS - 100%
+Bihar,Purnea,INCEPTISOLS - 100%
+Bihar,Saran,INCEPTISOLS - 100%
+Bihar,Patna,INCEPTISOLS - 100%
+Bihar,Mungair,USTALF/USTOLLS - 60% ; INCEPTISOLS - 40%
+Bihar,Bhagalpur,INCEPTISOLS - 60% ; USTALF/USTOLLS - 40%
+Jharkhand,Santhal Paragana / Dumka,INCEPTISOLS - 100%
+Bihar,Shahabad (now part of Bhojpur district),INCEPTISOLS - 80% ; USTALF/USTOLLS - 20%
+Bihar,Gaya,USTALF/USTOLLS - 100%
+Jharkhand,Hazaribagh,USTALF/USTOLLS - 100%
+Jharkhand,Dhanbad,USTALF/USTOLLS - 100%
+Jharkhand,Palamau,USTALF/USTOLLS - 100%
+Jharkhand,Ranchi,USTALF/USTOLLS - 100%
+Jharkhand,Singhbhum,USTALF/USTOLLS - 100%
+Tamil Nadu,Chennai,NA
